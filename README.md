@@ -1,1 +1,2 @@
 # LeetCode
+Happy coding!
